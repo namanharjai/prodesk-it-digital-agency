@@ -18,7 +18,7 @@ Add your deployed link here after hosting the project:
 **Live URL:** `prodesk-it-digital-agency-naman-dvg2dv9ox.vercel.app`
 
 ## Screenshot
-![Project Preview](./preview.png)
+![Project Preview](./WebPreview.png)
 
 ## Tech Stack
 - HTML5
