@@ -15,7 +15,7 @@ The goal was to create a landing page that looks professional on both desktop an
 ## Live Demo
 Add your deployed link here after hosting the project:
 
-**Live URL:** `http://localhost:5173/`
+**Live URL:** `prodesk-it-digital-agency-naman-dvg2dv9ox.vercel.app`
 
 ## Screenshot
 ![Project Preview](./preview.png)
