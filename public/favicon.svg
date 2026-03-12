@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Prodesk IT favicon</title>
+  <desc id="desc">Rounded square logo with the letter P.</desc>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="32" fill="url(#g)" />
+  <path d="M44 28h26c18.8 0 30 10.5 30 27 0 17-11.2 27.5-30 27.5H58V102H44V28Zm14 12v30h11c10.5 0 16.5-5 16.5-15s-6-15-16.5-15H58Z" fill="#ffffff" />
+</svg>
