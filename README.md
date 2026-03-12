@@ -79,18 +79,12 @@ npm run preview
 ```
 
 ## Deployment
-This project can be deployed easily on **Vercel** or **Netlify**.
+This project is deployed on **Vercel*
 
 ### Vercel
 1. Push the project to GitHub
 2. Import the repository in Vercel
 3. Deploy with default settings
-
-### Netlify
-1. Push the project to GitHub
-2. Import the repository in Netlify
-3. Use `npm run build` as the build command
-4. Use `dist` as the publish directory
 
 ## Lighthouse Check
 Before submitting, run Lighthouse in Chrome DevTools and check:
